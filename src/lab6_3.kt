@@ -45,7 +45,7 @@ class Veterinarian {
 
 fun main() {
     val dog = Dog("мясо", "будка", "хаски")
-    val cat = Cat("корм", "дом", "рыжий")
+    val cat = Cat("корм", "дом", "рыжая")
     val horse = Horse("сено", "конюшня", 50)
 
     val animals: List<Animal> = listOf(dog, cat, horse)
